@@ -30,7 +30,7 @@ A simulated dataset of 1,000 users, including:
 📎 [View the Interactive Dashboard](https://public.tableau.com/app/profile/benjamin.kovacevich/viz/ChurnAnalysisforaSubscriptionBasedFitnessApp/Dashboard1)
 
 ## 📄 Presentation
-📥 [Download the Case Study Slides](Churn_analysis.pptx)
+📥 [Download the Case Study Slides](Churn_analysis.pdf)
 
 ---
 
